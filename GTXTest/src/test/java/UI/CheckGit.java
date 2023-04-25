@@ -7,6 +7,12 @@ public class CheckGit {
          Changes made for first time
 		Changes for secomd time
 		changes for third time*/
+		
+		
+		/*Change made from Git to Eclipse
+		for the first time*/
+		
+		
 	}
 
 }
